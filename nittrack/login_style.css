@@ -1,0 +1,83 @@
+html, body
+{
+	font-family: 'Rubik', sans-serif;
+	background: url("img/map.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: calc(100% - 8px);
+}
+
+#parent
+{
+	height:100%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#header
+{
+	height: 310px;
+	width: 350px;
+	margin: auto;
+	padding-top: 10px;
+	-webkit-box-shadow: 0px 0px 30px 6px rgba(0,0,0,0.8);
+	-moz-box-shadow: 0px 0px 30px 6px rgba(0,0,0,0.8);
+	box-shadow: 0px 0px 30px 6px rgba(0,0,0,0.8);
+	border-radius: 3px;
+	font-size: 18px;
+	text-align: center;
+	background-color: white;
+}
+
+
+input
+{ 
+	width: 280px;
+	margin-top: 10px;
+	background-color: #efefef;
+	border: 2px solid #ddd;
+	border-radius: 3px;
+	font-size: 16px;
+	font-family: 'Rubik', sans-serif;
+	padding: 10px;
+}
+
+input[type=submit]
+{
+	width: 300px;
+	background-color: #36b03c;
+	font-size: 16px;
+	color: white;
+	border: none;
+	border-radius: 2px;
+	cursor: pointer;
+}
+
+#logo
+{
+	float: left;
+	margin: 10px;
+}
+
+#napis
+{
+	float: left;
+	height: 50px;
+	width: 226px;
+	margin-left: 10px;
+	margin-top: 20px;
+	text-align: justify;
+    text-justify: inter-word;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#logo img
+{
+	display: block;
+	float: left;
+	margin-left: 15px;
+	width: auto;
+	height: 65px;
+}

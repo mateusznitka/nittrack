@@ -1,0 +1,184 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "0bda4bc779d4c32623dec2e43bd67ee8",
+      "css": "gauge",
+      "code": 61668,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "17ebadd1e3f274ff0205601eef7b9cc4",
+      "css": "help-circled",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
+      "css": "download",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c7a75a25880928fe76981a53eca4f926",
+      "css": "inbox",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0d08dbb1dd648a43bdea81b7e6c9e036",
+      "css": "location",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ea2d9a8c51ca42b38ef0d2a07f16d9a7",
+      "css": "chart-line",
+      "code": 61953,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5bb103cd29de77e0e06a52638527b575",
+      "css": "wrench",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e99461abfef3923546da8d745372c995",
+      "css": "cog",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "895405dfac8a3b7b2f23b183c6608ee6",
+      "css": "export",
+      "code": 59399,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d7a614bd701f6712e8e3b2be124899e1",
+      "css": "flag-checkered",
+      "code": 61726,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6c83092421441296f5c4e8074b0cf32c",
+      "css": "flag-empty",
+      "code": 61725,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7fd683b2c518ceb9e5fa6757f2276faa",
+      "css": "eye-off",
+      "code": 59400,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e82cedfa1d5f15b00c5a81c9bd731ea2",
+      "css": "info-circled",
+      "code": 59401,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59402,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "671f29fa10dda08074a4c6a341bb4f39",
+      "css": "bell-alt",
+      "code": 61683,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cd21cbfb28ad4d903cede582157f65dc",
+      "css": "bell",
+      "code": 59403,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b013f6403e5ab0326614e68d1850fd6b",
+      "css": "resize-full-alt",
+      "code": 61618,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9937d762aee170b7350b15dd02dd34a3",
+      "css": "cab",
+      "code": 61881,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "891d861cffd152a6474f01e77716d44e",
+      "css": "bicycle",
+      "code": 61958,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7f3d8ff1d5f6ee019f0c00ed7a86caec",
+      "css": "truck",
+      "code": 59404,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5b17c7263caa553039655f2fef81ecaf",
+      "css": "bus",
+      "code": 61959,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "326dd5dc5899787161184614d04a50b9",
+      "css": "motorcycle",
+      "code": 61980,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "69bd9dfe950d07d910f39c6988364e49",
+      "css": "battery-4",
+      "code": 62016,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7ab4ec24078133effbc4e923b65ef835",
+      "css": "battery-3",
+      "code": 62017,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e430a168b45ba40aa988ca1a5034a553",
+      "css": "battery-2",
+      "code": 62018,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "99f4ea74adc24022106932d84a49b055",
+      "css": "battery-1",
+      "code": 62019,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9983d2489e028d659d196915a25ef3ca",
+      "css": "battery-0",
+      "code": 62020,
+      "src": "fontawesome"
+    }
+  ]
+}
