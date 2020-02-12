@@ -12,6 +12,7 @@ Na system składa się:
 * jednostka lokalizacyjna,
 * serwer,
 * użytkownik.
+
 Jednostka lokalizacyjna składa się z mikrokontrolera oraz modułów:
 * modułu GPS,
 * modułu GSM.
@@ -52,6 +53,7 @@ Od strony użytkownika aplikacja składa się z następujących podstron:
 * Informacje o systemie - info.php
 * Kontakt - contact.php
 * FAQ - help.php
+
 Dodatkowo aplikacja zawiera szereg skryptów backendowych:
 * connect.php - połączenie z bazą danych
 * convert.php, convert2.php - konwertowanie danych na GeoJSON
