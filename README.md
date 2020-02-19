@@ -7,6 +7,13 @@ Projekt zrealizowany w ramach pracy inżynierskiej "Projekt Systemu Monitoringu 
 3. Wykonanie modelu fizycznego systemu
 4. Opracowanie dokumentacji
 
+## Demo
+Wersja demonstracyjna dostępna jest pod adresem: https://nittrack.pl/
+
+**użytkownik:** demo
+
+**hasło:** demo
+
 ## Koncepcja systemu
 Na system składa się: 
 * jednostka lokalizacyjna,
