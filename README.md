@@ -49,6 +49,9 @@ W celu wykonania jednostki została zaprojektowana płytka PCB realizująca powy
 
 Płytka została zaprojektowana przy pomocy programu EasyEDA i wykonana w firmie JLCPCB.
 
+W oparciu o zaprojektowaną płytkę został wykonany funkcjonalny prototyp urządzenia (wcześniej urządzenie łączane było przewodami oraz przy pomocy polutowanej płytki uniwersalnej):
+![prototyp](https://raw.githubusercontent.com/mateusznitka/nittrack/master/docs/img/prototyp.jpg)
+
 ## Aplikacja użytkownika
 Aplikacja użytkownika została opracowana przy pomocy czystego HTML+CSS, JavaScripta(jQuery, Leaflet), oraz PHP. Baza danych: MariaDB.
 
